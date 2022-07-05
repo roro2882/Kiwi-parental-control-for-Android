@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/anim_slide_out_to_left.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/anim/slide_out_to_left.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_seek_bar.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/seek_bar.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-xhdpi_unlock_icon.png.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-xhdpi/unlock_icon.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/anim_slide_out_down.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/anim/slide_out_down.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_fragment_unlock.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/fragment_unlock.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_tile.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/tile.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_backspace.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/backspace.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/anim_fade_out.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/anim/fade_out.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_spinner_button.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/spinner_button.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-hdpi_unlock_icon.png.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-hdpi/unlock_icon.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_view_password_landscape.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/view_password_landscape.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-anydpi-v21_unlock_icon.xml.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-anydpi-v21/unlock_icon.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_item_simpleapp.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/item_simpleapp.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-xxxhdpi_background_layer.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-xxxhdpi/background_layer.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/anim_slide_in_down.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/anim/slide_in_down.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-xxxhdpi_unlock_icon.png.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-xxxhdpi/unlock_icon.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_activity_main.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/activity_main.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/anim_slide_out_to_right.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/anim/slide_out_to_right.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_activity_fake.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/activity_fake.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_fragment_app_usage_statistics.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/fragment_app_usage_statistics.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-xxhdpi_unlock_icon.png.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-xxhdpi/unlock_icon.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-mdpi_background_layer.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-mdpi/background_layer.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_fragment_home.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/xml_rouded_corners.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/xml/rouded_corners.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_item_app.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/item_app.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/xml_text_outline.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/xml/text_outline.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_done.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/done.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_sun.jpg.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/sun.jpg"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_settings.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/settings.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/anim_slide_in_from_right.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/anim/slide_in_from_right.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-xhdpi_background_layer.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-xhdpi/background_layer.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-xxhdpi_background_layer.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-xxhdpi/background_layer.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_activity_settings.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/xml_device_admin_sample.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/xml/device_admin_sample.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_locked.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/locked.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/xml_accessibility_service_config.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_seek_thumb.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/seek_thumb.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_info.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/info.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_view_password.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/view_password.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_delete.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/delete.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_checked.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/checked.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-ldpi_unlock_icon.png.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-ldpi/unlock_icon.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-mdpi_unlock_icon.png.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-mdpi/unlock_icon.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_ic_default_app_launcher.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/ic_default_app_launcher.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_unlock.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/unlock.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "jeudi.kiwi.app-pngs-7:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/anim_slide_in_from_left.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/anim/slide_in_from_left.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/drawable_arrowback.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/drawable/arrowback.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/mipmap-hdpi_background_layer.png.flat",
+        "source": "jeudi.kiwi.app-main-14:/mipmap-hdpi/background_layer.png"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_activity_missing_permissions.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/activity_missing_permissions.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_view_lock.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/view_lock.xml"
+    },
+    {
+        "merged": "jeudi.kiwi.app-merged_res-12:/layout_item_usage.xml.flat",
+        "source": "jeudi.kiwi.app-main-14:/layout/item_usage.xml"
+    }
+]

@@ -1,0 +1,214 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="jeudi.kiwi"
+4    android:versionCode="2"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+11-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:6:5-95
+11-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:6:22-92
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:7:5-78
+12-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:7:22-75
+13    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+13-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:8:5-72
+13-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:8:22-69
+14    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
+14-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:9:5-11:47
+14-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:10:9-62
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:12:5-80
+15-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:12:22-77
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:13:5-81
+16-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:13:22-78
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:14:5-76
+17-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:14:22-73
+18    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+18-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:15:5-76
+18-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:15:22-73
+19
+20    <application
+20-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:17:5-95:19
+21        android:allowBackup="true"
+21-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:18:9-35
+22        android:autoRemoveFromRecents="true"
+22-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:19:9-45
+23        android:debuggable="true"
+24        android:excludeFromRecents="true"
+24-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:20:9-42
+25        android:icon="@mipmap/ic_launcher"
+25-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:21:9-43
+26        android:label="Kiwi"
+26-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:22:9-29
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:23:9-54
+28        android:screenOrientation="portrait"
+28-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:24:9-45
+29        android:supportsRtl="true"
+29-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:25:9-35
+30        android:taskAffinity=".WidgetLayout"
+30-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:26:9-45
+31        android:testOnly="true"
+32        android:theme="@style/Theme.AppCompat.NoActionBar" >
+32-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:27:9-59
+33        <activity
+33-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:28:9-31:59
+34            android:name="jeudi.kiwi.activity.MissingPermissionsActivity"
+34-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:29:13-64
+35            android:label="@string/title_activity_missing_permissions"
+35-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:30:13-71
+36            android:theme="@style/NoActionBar" />
+36-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:31:13-47
+37        <activity
+37-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:32:9-43:20
+38            android:name="jeudi.kiwi.Divers.FakeActivity"
+38-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:33:13-48
+39            android:autoRemoveFromRecents="true"
+39-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:34:13-49
+40            android:enabled="false"
+40-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:35:13-36
+41            android:excludeFromRecents="true" >
+41-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:36:13-46
+42            <intent-filter>
+42-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:37:13-42:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:38:17-69
+43-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:38:25-66
+44
+45                <category android:name="android.intent.category.HOME" />
+45-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:40:17-73
+45-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:40:27-70
+46                <category android:name="android.intent.category.DEFAULT" />
+46-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:41:17-76
+46-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:41:27-73
+47            </intent-filter>
+48        </activity>
+49
+50        <service
+50-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:45:9-56:19
+51            android:name="jeudi.kiwi.Divers.KiwiAccessibility"
+51-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:46:13-53
+52            android:label="@string/app_name"
+52-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:47:13-45
+53            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" >
+53-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:48:13-79
+54            <intent-filter>
+54-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:49:13-51:29
+55                <action android:name="android.accessibilityservice.AccessibilityService" />
+55-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:50:17-92
+55-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:50:25-89
+56            </intent-filter>
+57
+58            <meta-data
+58-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:53:13-55:72
+59                android:name="android.accessibilityservice"
+59-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:54:17-60
+60                android:resource="@xml/accessibility_service_config" />
+60-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:55:17-69
+61        </service>
+62
+63        <receiver
+63-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:58:9-70:20
+64            android:name="jeudi.kiwi.Divers.DeviceAdmin"
+64-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:59:13-47
+65            android:description="@string/sample_device_admin_description"
+65-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:60:13-74
+66            android:label="@string/sample_device_admin"
+66-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:61:13-56
+67            android:permission="android.permission.BIND_DEVICE_ADMIN" >
+67-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:62:13-70
+68            <meta-data
+68-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:63:13-65:63
+69                android:name="android.app.device_admin"
+69-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:64:17-56
+70                android:resource="@xml/device_admin_sample" />
+70-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:65:17-60
+71
+72            <intent-filter>
+72-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:67:13-69:29
+73                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+73-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:68:17-82
+73-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:68:25-79
+74            </intent-filter>
+75        </receiver>
+76
+77        <activity
+77-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:72:9-86:20
+78            android:name="jeudi.kiwi.activity.MainActivity"
+78-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:73:13-50
+79            android:autoRemoveFromRecents="true"
+79-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:74:13-49
+80            android:excludeFromRecents="true"
+80-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:75:13-46
+81            android:label="Kiwi"
+81-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:76:13-33
+82            android:taskAffinity=".WidgetLayout"
+82-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:77:13-49
+83            android:theme="@style/Theme.AppCompat.NoActionBar" >
+83-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:78:13-63
+84            <intent-filter>
+84-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:79:13-85:29
+85                <action android:name="android.intent.action.MAIN" />
+85-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:38:17-69
+85-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:38:25-66
+86
+87                <category android:name="android.intent.category.HOME" />
+87-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:40:17-73
+87-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:40:27-70
+88                <category android:name="android.intent.category.DEFAULT" />
+88-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:41:17-76
+88-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:41:27-73
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:84:17-77
+89-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:84:27-74
+90            </intent-filter>
+91        </activity>
+92        <activity
+92-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:87:9-94:66
+93            android:name="jeudi.kiwi.activity.SettingsActivity"
+93-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:88:13-54
+94            android:autoRemoveFromRecents="true"
+94-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:89:13-49
+95            android:excludeFromRecents="true"
+95-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:90:13-46
+96            android:label="@string/title_activity_rights"
+96-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:91:13-58
+97            android:screenOrientation="portrait"
+97-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:92:13-49
+98            android:taskAffinity=".WidgetLayout"
+98-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:93:13-49
+99            android:theme="@style/Theme.AppCompat.NoActionBar" />
+99-->/home/roro/ApkProjects/Kiwi/app/src/main/AndroidManifest.xml:94:13-63
+100
+101        <provider
+101-->[com.squareup.picasso:picasso:2.71828] /home/roro/.gradle/caches/transforms-3/44e639e24f81b34ba8acf09cd321efeb/transformed/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+102            android:name="com.squareup.picasso.PicassoProvider"
+102-->[com.squareup.picasso:picasso:2.71828] /home/roro/.gradle/caches/transforms-3/44e639e24f81b34ba8acf09cd321efeb/transformed/picasso-2.71828/AndroidManifest.xml:9:13-64
+103            android:authorities="jeudi.kiwi.com.squareup.picasso"
+103-->[com.squareup.picasso:picasso:2.71828] /home/roro/.gradle/caches/transforms-3/44e639e24f81b34ba8acf09cd321efeb/transformed/picasso-2.71828/AndroidManifest.xml:10:13-72
+104            android:exported="false" />
+104-->[com.squareup.picasso:picasso:2.71828] /home/roro/.gradle/caches/transforms-3/44e639e24f81b34ba8acf09cd321efeb/transformed/picasso-2.71828/AndroidManifest.xml:11:13-37
+105
+106        <meta-data
+106-->[com.android.support:design:26.1.0] /home/roro/.gradle/caches/transforms-3/b7d34d95f2373d425adc8adf71b9b036/transformed/design-26.1.0/AndroidManifest.xml:26:9-28:38
+107            android:name="android.support.VERSION"
+107-->[com.android.support:design:26.1.0] /home/roro/.gradle/caches/transforms-3/b7d34d95f2373d425adc8adf71b9b036/transformed/design-26.1.0/AndroidManifest.xml:27:13-51
+108            android:value="26.1.0" />
+108-->[com.android.support:design:26.1.0] /home/roro/.gradle/caches/transforms-3/b7d34d95f2373d425adc8adf71b9b036/transformed/design-26.1.0/AndroidManifest.xml:28:13-35
+109        <meta-data
+109-->[android.arch.lifecycle:runtime:1.0.0] /home/roro/.gradle/caches/transforms-3/6e8e72b707f88f3268452ebca9956642/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+110            android:name="android.arch.lifecycle.VERSION"
+110-->[android.arch.lifecycle:runtime:1.0.0] /home/roro/.gradle/caches/transforms-3/6e8e72b707f88f3268452ebca9956642/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58
+111            android:value="27.0.0-SNAPSHOT" />
+111-->[android.arch.lifecycle:runtime:1.0.0] /home/roro/.gradle/caches/transforms-3/6e8e72b707f88f3268452ebca9956642/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
+112    </application>
+113
+114</manifest>

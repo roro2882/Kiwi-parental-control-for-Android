@@ -1,0 +1,4 @@
+#Tue Jul 05 14:32:46 CEST 2022
+base.0=/home/roro/ApkProjects/Kiwi/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
